@@ -1,0 +1,52 @@
+[PROJECT]
+Target=Bai_tap_Lon_Nhung.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.101
+Compiler=PCM
+[Target Data]
+FileList=Bai_tap_Lon_Nhung.c
+[Bai_tap_Lon_Nhung.c]
+Type=4
+[mru-list]
+1=Bai_tap_Lon_Nhung.c
+
+[defines]
+buildcount=12
+
+[ProjectLog]
+Days=2
+D1=03-06-2023
+D1_L=6
+D1_L1=[40786]Started Editing.
+D1_L2=[41086]Stopped Editing.
+D1_L3=[73944]Started Editing.
+D1_L4=[75951]Stopped Editing.
+D1_L5=[75993]Started Editing.
+D1_L6=[76686]Stopped Editing.
+D2=04-06-2023
+D2_L=11
+D2_L1=[21959]Started Editing.
+D2_L2=[22280]Stopped Editing.
+D2_L3=[22294]Started Editing.
+D2_L4=[25021]Stopped Editing.
+D2_L5=[25830]Started Editing.
+D2_L6=[26427]Stopped Editing.
+D2_L7=[26812]Started Editing.
+D2_L8=[27113]Stopped Editing.
+D2_L9=[27755]Started Editing.
+D2_L10=[28057]Stopped Editing.
+TotalEdit=81
+TotalDebug=0
+D2_E=81
+D2_D=0
+D2_L11=[62143]Project Closed.
+
+[Opened Files]
+1=Bai_tap_Lon_Nhung.c
+t1=5
+Count=1
+2=C:\Program Files (x86)\PICC\Drivers\lcd.c
+t2=304
+[Units]
+Count=1
+1=Bai_tap_Lon_Nhung (main)
